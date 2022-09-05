@@ -17,14 +17,14 @@ body {
 
 article {
   width:50vw;
-  max-width: 25em;
-  min-width:20em;
+  max-width: 50em;
+  min-width:30em;
   display:flex;
   flex-direction:column;
   align-items:center;
   justify-content:flex-end;
   background: rgb(0,239,255);
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
+  background: linear-gradient(0deg, rgba(0,293,255,1) 40%, #4e54c8 100%);
   box-shadow:0 0 20px 20px rgba(0,0,0,.1);
   border-radius:1rem;
   position: relative;
@@ -42,16 +42,16 @@ header {
 
 h1 {
   margin:2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: rgba(0,29,255,1);
 }
 
 button {
   border:none;
   position: absolute;
-  right:1rem;
-  top:1rem;
-  width:2.5rem;
-  height:2.5rem;
+  right:3rem;
+  top:10rem;
+  width:5rem;
+  height:5rem;
   transform: scale(.8);
   background: rgba(0,239,255,1);
   border-radius:50%;
@@ -80,31 +80,14 @@ button svg:nth-of-type(2) {
 
 img {
   width:10em;
-  border-radius:10em;
+  border-radius:5em;
   border:5px solid #fff;
   box-shadow:0 0 2px 2px rgba(0,0,0,.2);
-  position:relative;
+  position:sticky;
   top:2rem;
   transition:.25s .15s;
 }
 
-dl {
-  width:100%;
-  background: rgb(255,255,255);
-  
-  display:grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas:
-    "html-dd css-dd js-dd"
-    "html-dt css-dt js-dt"
-    ;
-  justify-items:center;
-  align-items:start;
-  padding:5rem 0 3rem;
-  margin-top: -3rem;
-  margin-bottom: 0;
-  text-align: center;
-}
 
 dt{
   font-weight: bold;
