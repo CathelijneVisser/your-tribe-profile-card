@@ -62,8 +62,10 @@ button:focus {
   outline:none;
   background:#202592;
 }
-button:focus svg {
-  stroke: rgba(0,239,255,1);
+.uil-angle-right-b {
+  stroke: rgba(0,29,255,1);
+
+
 }
 
 svg {
@@ -79,13 +81,7 @@ button svg:nth-of-type(2) {
 }
 
 img {
-  width:10em;
-  border-radius:5em;
-  border:5px solid #fff;
-  box-shadow:0 0 2px 2px rgba(0,0,0,.2);
-  position:sticky;
-  top:2rem;
-  transition:.25s .15s;
+  width: ;
 }
 
 
