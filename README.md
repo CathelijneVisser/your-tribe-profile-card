@@ -1,2 +1,4 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
+
+
+Dit is een visite kaartje met informatie over mij. Dit is handig want dan kan ik makkelijk mensen laten zien wie ik ben en wat ik kan, zo kunnen bedrijven goed zien wat mijn skills zijn en wat voor projecten ik gemaakt heb. 
