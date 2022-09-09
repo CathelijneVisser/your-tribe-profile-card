@@ -1,6 +1,6 @@
 * {
     box-sizing:border-box;
-    /*border: solid 1px red;*/
+    border: solid 1px red;
   }
   
   html {
@@ -74,6 +74,10 @@
     color: #E94560;
   }
   
+  p1 {
+    margin: 25px;
+    margin-top: 40px;
+  }
   
   button {
     border:none;
