@@ -1,6 +1,6 @@
 * {
     box-sizing:border-box;
-    border: solid 1px red;
+    /*border: solid 1px red;*/
   }
   
   html {
@@ -75,7 +75,7 @@
   }
   
   p1 {
-    margin: 25px;
+    margin: 45px;
     margin-top: 40px;
   }
   
